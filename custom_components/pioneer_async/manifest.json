@@ -1,11 +1,11 @@
 {
   "domain": "pioneer_async",
   "name": "Pioneer AVR",
-  "version": "0.8.4",
+  "version": "v1.0",
   "config_flow": true,
   "documentation": "https://github.com/facundograziani/ha-pioneer_async",
   "integration_type": "hub",
-  "requirements": [ "aiopioneer==0.4.3" ],
+  "requirements": [ "aiopioneer==1.0" ],
   "dependencies": [],
   "codeowners": [ "@facundograziani" ],
   "iot_class": "local_polling",
